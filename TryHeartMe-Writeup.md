@@ -4,7 +4,7 @@
 **Challenge:** TryHeartMe Valentines Shop  
 **Category:** Web Exploitation  
 **Difficulty:** Easy / Medium  
-**Flag:** `THM{v4l3nt1n3_jwt_c00k13_t4mp3r_4dm1n_sh0p}`
+**Flag:** `THM{*************************************}`
 
 ---
 
@@ -209,7 +209,7 @@ curl -s -b "tryheartme_jwt=$FORGED_JWT" http://<TARGET_IP>:5000/receipt/valenfla
 The receipt page contains the flag:
 
 ```
-THM{v4l3nt1n3_jwt_c00k13_t4mp3r_4dm1n_sh0p}
+THM{*************************************}
 ```
 
 ---
@@ -217,7 +217,7 @@ THM{v4l3nt1n3_jwt_c00k13_t4mp3r_4dm1n_sh0p}
 ## Flag
 
 ```
-THM{v4l3nt1n3_jwt_c00k13_t4mp3r_4dm1n_sh0p}
+THM{*************************************}
 ```
 
 ---
